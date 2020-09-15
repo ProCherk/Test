@@ -10,7 +10,7 @@ namespace Test
             string a = Console.ReadLine();
             Console.WriteLine("Hello World!");
             Console.WriteLine(a);
-
+            
         }
     }
 }
