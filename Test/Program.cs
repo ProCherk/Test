@@ -6,7 +6,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите текст: ");
+            Console.Write("Введите текст: ");
             string a = Console.ReadLine();
             Console.WriteLine("Hello World!");
             Console.WriteLine(a);
